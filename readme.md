@@ -58,4 +58,4 @@ python 03_run_viper.py
 
 ## Acknowledgments
 
-This codebase is based on [Tinylight](https://github.com/dxing-cs/TinyLight)'s code.
+This codebase is based on [TinyLight](https://github.com/dxing-cs/TinyLight)'s code.
